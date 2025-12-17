@@ -322,13 +322,7 @@ Uses proper quantum mechanical probability distributions, not approximations.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit issues or pull requests.
 
-**Ideas for enhancement:**
-- Add ability to export data to CSV
-- Implement 3D visualization of interference patterns
-- Add real-time parameter adjustment
-- Include educational tooltips explaining each plot
 
 ## 📝 License
 
